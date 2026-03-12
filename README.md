@@ -127,7 +127,7 @@ param_grid = {
 
 ---
 
-## 🚀 Installation & Exécution en local
+## Installation & Exécution en local
 
 ### Prérequis
 - Python 3.10 ou supérieur
@@ -178,16 +178,6 @@ streamlit run app.py
 
 ---
 
-## 📷 Screenshots
-
-```
-[ EDA Dashboard ]       [ Model Comparison ]    [ SHAP Explainability ]
-  Distribution plots      6 modèles comparés      Pourquoi ce client churne ?
-  Heatmap corrélation     Accuracy / F1 / AUC     Force Plot individuel
-  Churn analysis          Confusion Matrix         Feature Importance globale
-```
-
----
 
 ## 🛠 Stack Technique
 
@@ -211,7 +201,3 @@ Versioning : Git, GitHub
 - 🐙 [GitHub](https://github.com/ahmed-mansof)
 
 ---
-
-## 📄 Licence
-
-Ce projet est sous licence MIT — voir le fichier [LICENSE](LICENSE) pour les détails.
